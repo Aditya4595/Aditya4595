@@ -8,7 +8,7 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🤖 Aspiring **Full Stack Developer** focused on building real-world applications.
 - ⚡ Working with the **MERN Stack** to create scalable web apps.
@@ -19,11 +19,11 @@
 - 📍 India | Building projects that solve actual problems, not tutorial clones.
 - 🔥 AI Enthusiast who likes combining software engineering with intelligent systems.
 
-<hr>
+---
 
 <!-- ========================= TECH STACK ========================= -->
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ## 🎨 Frontend
 
@@ -81,7 +81,7 @@
 
 <!-- ========================= PROJECTS ========================= -->
 
-# 🚀 Projects
+## 🚀 Projects
 
 ## 🧠 AI Chatbot SaaS
 
@@ -105,7 +105,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=Aditya4595&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
