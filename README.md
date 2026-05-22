@@ -118,5 +118,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya4595&icon=2&color=00FFFF" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya4595&icon=2&color=0A1E26" />
 </p>
