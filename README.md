@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Aditya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+LLM+Enthusiast;Building+Real+World+Projects;Integrating+Chatbots+%26+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+LLM+Enthusiast;Building+Real+World+Projects;Integrating+Chatbots+%26+LLMs" />
 </p>
 
 <hr>
