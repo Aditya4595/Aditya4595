@@ -83,26 +83,6 @@
 
 ## 🚀 Projects
 
-## 🧠 AI Chatbot SaaS
-
-> AI-powered chatbot integrated with LLM APIs, authentication, and real-time responses.
-
-## 🛒 MERN E-Commerce Platform
-
-> Full-stack e-commerce application with authentication, admin dashboard, payments, and order management.
-
-## 📄 AI Resume Analyzer
-
-> Smart resume analysis platform using NLP and AI scoring techniques.
-
-## 💬 Real-Time Chat Application
-
-> MERN + Socket.io based chat platform with authentication and live messaging.
-
-## 📊 AI Content Generator
-
-> Generates blogs, captions, summaries, and marketing content using LLM APIs.
-
 ---
 
 ## 📊 GitHub Stats
