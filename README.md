@@ -96,37 +96,18 @@
 
 <hr>
 
-<!-- ========================= GITHUB STATS ========================= -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aditya4595&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aditya4595&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya4595&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditya4595&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-readme-stats.vercel.app/api?username=Aditya4595&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+---
+[![](https://komarev.com/ghpvc/?username=Aditya4595&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya4595&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya4595&theme=tokyonight&hide_border=false&layout=compact)
-
-<hr>
-
-<!-- ========================= TROPHIES ========================= -->
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Aditya4595&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-<hr>
-
-<!-- ========================= TOP CONTRIBUTED REPO ========================= -->
-
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Aditya4595&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<hr>
-
-<!-- ========================= CONNECT ========================= -->
-
-# 🌐 Connect With Me
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-bhanushali-5063ba354)
 
